@@ -72,7 +72,7 @@ We used <code>scipy.stats.kendalltau</code> to determine the Kendall rank correl
 When comparing the similarity between the datasets when ordered by DPT scores or by collection date before implementing a regression against each cell’s S and G2m scores, we found that the tau value was just 0.06, indicating a lack of correlation between the two orderings. Interestingly, after the regression was performed we still observed a low tau value of 0.04. Furthermore, both cases resulted in a p-value of much less than 0.05, which also indicates the lack of a correlation. Both of these suggest that our ordering of cells does not properly capture when the cells were sampled throughout the course of the experiment, and that our processed and reduced dataset is therefore not capturing the variance underlying the maturation and differentiation processes set out to characterize.
 
 ![Plots of predicted DPT scores for 8100 mouse stem cells vs their collection order before (A) and after (B) cell–cycle regression
-](figures/DPT_scores.png)
+](figures/DPT_scores.PNG)
 
 ##### Supervised:
 Given the ground truths, we can employ matching-based (e.g. F-measure), entropy-based (e.g. Normalized mutual information), or pairwise measures (e.g. Jaccard coefficient) to evaluate supervised classification. All methods will use a Euclidean distance metric in transcriptomic space.
