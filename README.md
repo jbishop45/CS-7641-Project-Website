@@ -1,6 +1,4 @@
 # Trajectory Analysis of Single-Cell mRNA Sequencing Data 
-**TODO:** MAKE GITHUB PAGE PUBLIC AND SHARE LINK, ENSURE REPO IS PRIVATE BEFORE SUBMISSION
-
 **Authors:** Josh Bishop, Anjana Dissanayaka, Vishal Manickman, Nina Moorman, Jay Wroe
 
 **Instructor:** Prof. Mahdi Roozbahani
