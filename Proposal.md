@@ -17,7 +17,7 @@ Genes with few observations are statistically unreliable, and dead cells are a s
 Robust methods for interpreting transcriptomic<sup>I</sup> responses to arbitrary stimuli can yield insights into disease state evolution and aid in the development of novel therapies. Diffusion Pseudotime<sup>III</sup> analysis (DPT) is a method for ordering cells along a continuous process and is robust to batch effects on sampling density and sequencing depth, making it a flexible tool for classifying cells<sup>[3]</sup>.
 Our goals are: (1) identify distinct populations of cells differentiating from a common origin, and (2) determine the physiological role of those populations.
 
-![Proposal Figure](figures/proposal_figure.png)
+![Proposal Figure](Website/proposal_figure.png)
 
 ### Methods:
 #### Unsupervised Subproject - Graph Inference
@@ -41,8 +41,8 @@ All methods will use a Euclidean distance metric in transcriptomic<sup>I</sup> s
 
 ## Proposed Timeline & Contribution Table
 
-![Proposal Timeline](figures/proposal_timeline.png)
-![Gantt Chart](figures/gantt_chart.png)
+![Proposal Timeline](Website/proposal_timeline.png)
+![Gantt Chart](Website/gantt_chart.png)
 
 
 ## Definition of Terms
