@@ -19,7 +19,7 @@ Robust methods for interpreting transcriptomic<sup>I</sup> responses to arbitrar
 Our goals are: (1) identify distinct populations of cells differentiating from a common origin, and (2) determine the physiological role of those populations.
 
 ![Proposal Figure](figures/proposal_figure.png)
-Diffusion pseudotime robustly reconstructs lineage branching. Haghverdi, et. al. <sup>[3]</sup>
+"Diffusion pseudotime robustly reconstructs lineage branching". Haghverdi, et. al. <sup>[3]</sup>
 
 ### Results and Discussion
 #### Research Questions
