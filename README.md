@@ -5,7 +5,6 @@
 
 **Submitted:** December 6, 2022
 
-# TODO: UPDATE FOR FINAL SUBMISSION
 ## Introduction/Background 
 ### Topic
 Single-cell mRNA sequencing (scRNA-seq) has generated petabytes of data detailing the transcriptomes<sup>I</sup> of billions of cells, generating insights ranging from biomarkers<sup>II</sup> of disease states to the discovery of new cell-types. Diverse methods for generating these data cause high variability in the number & similarity of cells sequenced, and mRNAs sequenced per cell<sup>[6,11,12]</sup>. Developing robust methods for sc-RNAseq analysis is critical to standardizing analytical results and expediting scientific discoveries<sup>[6,11,12]</sup>.
@@ -92,7 +91,6 @@ We additionally propose to perform an Analysis of Similarity (ANOSIM) via the <c
 
 # CONCLUSION
 
-# UPDATE CONTRIBUTION TABLE, DROP TIMELINE?
 ## Proposed Timeline & Contribution Table
 ![Proposal Timeline](figures/proposal_timeline.png)
 ![Gantt Chart](figures/gantt_chart.png)
